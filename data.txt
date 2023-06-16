@@ -1,0 +1,9 @@
+PAIR PROGRAMMING -> Programación en parejas
+
+Manejo de información (libros, tareas)
+
+CRUD: Operaciones básicas de administración
+Create: Crear (guardar) (POST)
+Read: Lear (obtener información) (GET)
+Update: actualizar (PUT)
+Delete: eliminar (DELETE)
